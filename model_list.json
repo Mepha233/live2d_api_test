@@ -1,11 +1,9 @@
 {
     "models": [
-        [
-         "HyperdimensionNeptunia/nepnep",
-         "HyperdimensionNeptunia/neptune_santa",
-         "HyperdimensionNeptunia/nepmaid",
-         "HyperdimensionNeptunia/nepswim"
-        ]
+        "HyperdimensionNeptunia/nepnep",
+        "HyperdimensionNeptunia/neptune_santa",
+        "HyperdimensionNeptunia/nepmaid",
+        "HyperdimensionNeptunia/nepswim"
     ],
     "messages": [
         "主人让我坚守阵地，所以还不能走呜呜呜~"
