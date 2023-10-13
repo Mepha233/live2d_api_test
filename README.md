@@ -1,6 +1,7 @@
 # Live2D API
 
-Live2D 看板娘插件 (https://www.fghrsh.net/post/123.html) 上使用的后端 API
+Live2D 看板娘插件 (https://mepha.top) 上使用的后端 API
+fork from [live_2d](https://github.com/fghrsh/live2d_api)
 
 ### 特性
 
